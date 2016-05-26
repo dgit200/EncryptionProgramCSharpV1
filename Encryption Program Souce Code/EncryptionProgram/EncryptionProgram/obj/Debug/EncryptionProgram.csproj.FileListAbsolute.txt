@@ -1,0 +1,10 @@
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\bin\Debug\EncryptionProgram.exe.config
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\bin\Debug\EncryptionProgram.exe
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\bin\Debug\EncryptionProgram.pdb
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.Form1.resources
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.Properties.Resources.resources
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.csproj.GenerateResource.Cache
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.exe
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.pdb
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.LoginWindow.resources
+C:\Users\DwightThomas\Desktop\My Stuff\CODING\EncryptionProgram\EncryptionProgram\obj\Debug\EncryptionProgram.EmailWindow.resources
