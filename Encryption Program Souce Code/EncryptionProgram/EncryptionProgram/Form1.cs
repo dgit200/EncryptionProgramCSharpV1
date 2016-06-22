@@ -103,7 +103,7 @@ namespace EncryptionProgram
             //the login form we just cam from. So it effectively signs you out and closes this window.
 
             login.Show();
-            this.Close();
+            this.Hide();
         }
 
 
